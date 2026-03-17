@@ -15,6 +15,26 @@ print("Multiplication", a * b)
 print("Modulus", a % b)
 print("Exponent", a ** b)
 
+#float
+c=2.0
+d=9.0
+
+print("Addition", c + d)
+print("Subtraction", c - d)
+print("Division", c / d)
+print("Multiplication", c * d)
+print("Modulus", c % d)
+print("Exponent", c ** d)
+
+#complex
+e=1 + 4j
+f=1 + 8j
+
+print("Addition", e + f)
+print("Subtraction", e - f)
+print("Division", e / f)
+print("Multiplication", e * f)
+print("Exponent", e ** f)
 
 #2 Two Variables
 num1=25000000

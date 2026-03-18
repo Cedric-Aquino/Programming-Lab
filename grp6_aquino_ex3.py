@@ -20,11 +20,11 @@ print(jeshley)
 print(jerone)
 
 #Many Values to Multiple Variables
-x, y, z= 1, 2, 3
-print(x)
-print(y)
-print(z)
+a, b, c= 1, 2, 3
+print(a)
+print(b)
+print(c)
 
 #One Values to Multiple Variables
-x=y=z=1
-print(x)
+d=e=f=1
+print(d)
